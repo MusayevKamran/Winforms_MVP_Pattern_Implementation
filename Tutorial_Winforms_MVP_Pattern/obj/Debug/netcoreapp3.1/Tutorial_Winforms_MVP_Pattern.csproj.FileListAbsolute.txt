@@ -1,0 +1,15 @@
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\bin\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.exe
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\bin\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.deps.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\bin\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.runtimeconfig.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\bin\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.runtimeconfig.dev.json
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\bin\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\bin\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\obj\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.csprojAssemblyReference.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\obj\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.csproj.GenerateResource.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\obj\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.AssemblyInfoInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\obj\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.AssemblyInfo.cs
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\obj\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\obj\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.dll
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\obj\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.pdb
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\obj\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.genruntimeconfig.cache
+C:\Users\ITGAz.Dev.Kamran\source\repos\Tutorial_Winforms_MVP_Pattern\Tutorial_Winforms_MVP_Pattern\obj\Debug\netcoreapp3.1\Tutorial_Winforms_MVP_Pattern.Forms.FormLogin.resources

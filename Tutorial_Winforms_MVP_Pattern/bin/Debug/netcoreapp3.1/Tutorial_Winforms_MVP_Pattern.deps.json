@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tutorial_Winforms_MVP_Pattern/1.0.0": {
+        "runtime": {
+          "Tutorial_Winforms_MVP_Pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tutorial_Winforms_MVP_Pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
